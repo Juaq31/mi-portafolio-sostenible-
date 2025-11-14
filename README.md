@@ -27,6 +27,7 @@ git pull origin main
 git branch
 git status
 git log
+git
 
 ## Licencia 
 Este proyecto se publica bajo licencia MIT
