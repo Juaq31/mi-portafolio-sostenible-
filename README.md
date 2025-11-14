@@ -19,15 +19,15 @@ Un programador puede aportar a la sostenibilidad digítal creando y optimizando 
 - Java
 
 ## Primeros comandos aprendidos 
-git init
-git add.
-git commy -m "primer commit"
-git push origin main
-git pull origin main
-git branch
-git status
-git log
-git
+- git init
+- git add.
+- git commit -m "primer commit"
+- git push origin main
+- git pull origin main
+- git branch
+- git status
+- git log
+- git
 
 ## Licencia 
 Este proyecto se publica bajo licencia MIT
